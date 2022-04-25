@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="321" height="88" viewBox="0 0 321 88">
+  <defs>
+    <filter id="Rectangle_4229" x="0" y="0" width="321" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_16790" data-name="Group 16790" transform="translate(-41 -142)">
+    <g transform="matrix(1, 0, 0, 1, 41, 142)" filter="url(#Rectangle_4229)">
+      <rect id="Rectangle_4229-2" data-name="Rectangle 4229" width="303" height="70" rx="8" transform="translate(9 6)" fill="#fff" opacity="0.6"/>
+    </g>
+    <image id="weight-scale" width="46" height="46" transform="translate(269 160)" xlink:href="Group%2016790-image.png"/>
+    <text id="Weight_Tracker" data-name="Weight Tracker" transform="translate(72 179)" fill="#6f78c1" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Weight Tracker</tspan></text>
+    <text id="Overall_Status" data-name="Overall Status" transform="translate(72 198)" fill="#363636" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Overall Status</tspan></text>
+    <path id="Icon_ionic-ios-arrow-round-back" data-name="Icon ionic-ios-arrow-round-back" d="M17.129,11.437a.658.658,0,0,0-.005.927l3.057,3.067H8.532a.655.655,0,0,0,0,1.309H20.181l-3.062,3.067a.663.663,0,0,0,.005.927.652.652,0,0,0,.922-.005l4.15-4.18h0a.735.735,0,0,0,.136-.206.625.625,0,0,0,.05-.252.656.656,0,0,0-.186-.458l-4.15-4.18A.642.642,0,0,0,17.129,11.437Z" transform="translate(316.614 166.913)" fill="#6f78c1"/>
+  </g>
+</svg>
